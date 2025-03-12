@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          
 description:    "Blog"
 baseurl:        "/blog"
 url:            "https://bugeun.github.io"
